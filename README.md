@@ -1,4 +1,4 @@
-# hr_analytics
+# hr_analytics_Power_BI
 
 HR Analytics Dashboard
 
